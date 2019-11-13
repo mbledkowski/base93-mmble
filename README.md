@@ -5,7 +5,7 @@ mmble edition of base 93 - all printable ASCII characters without Space [SP, 0x2
 ```
 0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!"#$%&()*+,-./:;<=>?@[\]^_`{|}~
 ```
-1. Python
+2. Python
 ```python
 base93mmble='0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!"#$%&()*+,-./:;<=>?@[\]^_`{|}~'
 ```
